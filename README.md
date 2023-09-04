@@ -1,5 +1,4 @@
-# asdcrudjs
-Trabalho CRUD - NodeJS
+# Trabalho CRUD - NodeJS
 
 # Repositório Git
 https://github.com/moraes1986/asdcrudjs
